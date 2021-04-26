@@ -1,4 +1,4 @@
 # kickstarter-analysis
 Analysis for Louise's business development
-![parent category](path/to/parent category.png)
+![parentcategory](path/to/parentcategory.png)
 [filename](path/to/filename.xlxs)
