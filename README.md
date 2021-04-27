@@ -7,6 +7,7 @@ The purpose of this analysis here is to help Louise to discover how different ca
 # Analysis and challenges
 
 ##Outcomes Based on Launch Date Chart
+https://github.com/summerginger/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png.png 
  ![Theater Outcomes Based on Lunch Dates](Theater_Outcomes_vs_Launch.png) 
  
 The above table allows us to determine a few things. For one, we can see that successful campaigns have much higher fundraising goals in the early months of the year and reached the peak in May. Then it was gradually decreasing towards the end of the year. 
