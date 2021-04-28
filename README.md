@@ -17,6 +17,7 @@ By reviewing this line chat, we can see an evident and symmetrical relationship 
 
 ## Recommandation and limitation
  Based on the findings, the best date for Louise to launch her play should probably happen at the beginning of the year. And since the symmetry outcome for both successful and failed campaigns took place at a 50% threshold, it is a good idea to find out what the factor is there to keep people unsuccessful in their projects. We probably also need to look at measures of central tendency to see how the data is distributed. 
+ 
 ![Central tendency based on Goals](https://github.com/summerginger/kickstarter-analysis/blob/149e449934abb08f94e10658e2bda5eed927cf28/central_tendency_vs_goal.png.png)
 
 [Kickstart_challenges](https://github.com/summerginger/kickstarter-analysis/blob/149e449934abb08f94e10658e2bda5eed927cf28/kickstarter_challenge.xlsx)
