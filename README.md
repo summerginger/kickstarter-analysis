@@ -24,4 +24,4 @@ By reviewing this line chat, we can see an evident and symmetrical relationship 
 
  
 
-[Kickstart_challenges](kickstart_challenges.xlxs)
+[Kickstart_challenges](https://github.com/summerginger/kickstarter-analysis/blob/main/kickstarter_challenge.xlsx)
