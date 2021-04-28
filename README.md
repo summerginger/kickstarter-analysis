@@ -9,13 +9,13 @@ The purpose of this analysis here is to help Louise to discover how different ca
  
 The above table allows us to determine a few things. For one, we can see that successful campaigns have much higher fundraising goals in the early months of the year and reached the peak in May. Then it was gradually decreasing towards the end of the year. 
 
-# Outcomes Based on Goals Chart
+### Outcomes Based on Goals Chart
 ![Outcomes_vs_Goals.png](https://github.com/summerginger/kickstarter-analysis/blob/149e449934abb08f94e10658e2bda5eed927cf28/Outcomes_vs_Goals.png.png)
  
 By reviewing this line chat, we can see an evident and symmetrical relationship between successful and failed outcomes based on their goals, and it occurs at 50% of the threshold. Those failed may have another factor for reasons.
 ### Challengings
 
-# Recommandation and limitation
+## Recommandation and limitation
  Based on the findings, the best date for Louise to launch her play should probably happen at the beginning of the year. And since the symmetry outcome for both successful and failed campaigns took place at a 50% threshold, it is a good idea to find out what the factor is there to keep people unsuccessful in their projects. We probably also need to look at measures of central tendency to see how the data is distributed. 
 ![Central tendency based on Goals](https://github.com/summerginger/kickstarter-analysis/blob/149e449934abb08f94e10658e2bda5eed927cf28/central_tendency_vs_goal.png.png)
 
