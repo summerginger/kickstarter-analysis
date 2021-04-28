@@ -2,7 +2,7 @@
 ## Overview of Project 
 This report consists of two main campaign visualization outcomes based on Launch date and funding goals. 
 ### The Purpose
-The purpose of this analysis here is to help Louise to discover how different campaigns fared based on those outcomes, so she can be more prepared before she launches her new business idea.  
+---The purpose of this analysis here is to help Louise to discover how different campaigns fared based on those outcomes, so she can be more prepared before she launches her new business idea.  
 ## Analysis and challenges
 ### Outcomes Based on Launch Date Chart
  ![Theater Outcomes Based on Lunch Dates](https://github.com/summerginger/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png.png ) 
