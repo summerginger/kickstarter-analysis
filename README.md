@@ -1,6 +1,4 @@
 # **kickstarter-analysis**
-# Kickstarting with Excel
-
 ## Overview of Project
 This report consists of two primary campaign visualization outcomes based on Launch date and funding goals. 
 ### Purpose
