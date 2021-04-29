@@ -13,7 +13,7 @@ The chart clear illustrate two things. For one, we can see that successful campa
 
 ![Outcomes_vs_Goals.png](https://github.com/summerginger/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png.png)
 
-By reviewing this line chat, we can see that there is a completely symmetrical relationship between successful and failed outcomes based on their goals. And it happens at 50% threshold. Overall, the lower amount of goal the higher percentage of the successful projects and vice versa.  
+By reviewing this line chat, we can see that there is a completely symmetrical relationship between successful and failed outcomes based on their goals. And it happens at 50% threshold. Overall, the lower amount of goal outcome, the higher the proportion of the successful projects, and vice versa.  
 
 ### Challenges and Difficulties Encountered
 Since the result of outcomes for both successful and failed campaigns complete the opposite, it could be hard to tell what else the factor was there to keep people unsuccessful from their projects. In addition, the percentage applied in outcomes based on goals hinders the actual number; for example, the number of goal outcomes (148) in the less amount range ( 1,000-4,999) was far greater than the outcomes (2) in the much higher range of amount (40,000-44,999) in successful projects. Yet, the percentage shows only a 10% difference between the two.
